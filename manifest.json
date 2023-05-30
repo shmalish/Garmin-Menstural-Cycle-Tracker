@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "Period Tracker",
+  "version": "1.0",
+  "description": "Period Tracker for Garmin Calendar",
+  "content_scripts": [
+    {
+      "matches": ["https://connect.garmin.com/modern/calendar"],
+      "js": ["myscript.js"]
+    }
+  ],
+  "permissions": [
+    "storage"
+  ]
+}
