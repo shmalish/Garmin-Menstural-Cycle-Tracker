@@ -3,9 +3,10 @@ To run this as a chrome extension
 1) Read the sourcecode in myscript.js and manifest.json to verify nothing looks weird 
 2) go to chrome extensions chrome://extensions/
 3) toggle this button on the top right ![image](https://github.com/shmalish/Garmin-Menstural-Cycle-Tracker/assets/89220456/6971c528-0fb9-4353-ab88-cf0e25334f3e)
-4) press load unpacked ![image](https://github.com/shmalish/Garmin-Menstural-Cycle-Tracker/assets/89220456/b4565ec6-b929-4ba2-9468-33680c77302e)
-5) open the folder you just downloaded (you might need to unzip it first)
-6) It should work 
+4) unzip the folder 
+5) press load unpacked ![image](https://github.com/shmalish/Garmin-Menstural-Cycle-Tracker/assets/89220456/b4565ec6-b929-4ba2-9468-33680c77302e)
+6) It looks like github puts it in 2 folders for some reason so when you're trying to load the folder, double click the first folder ![image](https://github.com/shmalish/Garmin-Menstural-Cycle-Tracker/assets/89220456/b4565ec6-b929-4ba2-9468-33680c77302e) ![image](https://github.com/shmalish/Garmin-Menstural-Cycle-Tracker/assets/89220456/761a3013-db05-4a30-ab52-bb251a805b5b) and then that is the folder that should be opened ![image](https://github.com/shmalish/Garmin-Menstural-Cycle-Tracker/assets/89220456/0e1adf5b-b89c-448b-bf54-5d4e256d0612)
+7) It should work 
 
 This tool was a suggestion from a friend who told me that Garmin does not account for these things in their calendar but is something that heavily impacts athletes across the globe. Hopefully it helps. 
 
